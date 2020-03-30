@@ -1,11 +1,11 @@
 # Site settings
-author: Cristal Alatorre Perez
-title: 
+author: Cristal Alatorre Perez 
+title: cristalcodes
 header-img: img/home-bg.png
 email: cristalcodes@gmail.com
-copyright_name: Cristal Alatorre Perez
+copyright_name: Cristal Alatorre Perez 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From code enthusiast to software engineer! 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: CristalAlatorre
 github_username:  cristalcodes
