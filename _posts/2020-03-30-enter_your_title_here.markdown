@@ -5,6 +5,7 @@ date:       2020-03-30 02:51:36 -0400
 permalink:  enter_your_title_here
 ---
 
+Please visit https://medium.com/@_codeBaby/a-cli-project-built-with-love-6938f444c6a8 for the full blog post with images.
 
 ![](https://miro.medium.com/max/1260/1*untSK8kBGV-NcdexYEM1uw.png)
 
